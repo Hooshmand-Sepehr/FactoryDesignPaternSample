@@ -1,6 +1,6 @@
-﻿using FactoryDesignPaternSample.Contracts;
+﻿using FactoryDesignPatternSample.Contracts;
 
-namespace FactoryDesignPaternSample.Entities
+namespace FactoryDesignPatternSample.Entities
 {
     public class Honda : ICarSupplier
     {

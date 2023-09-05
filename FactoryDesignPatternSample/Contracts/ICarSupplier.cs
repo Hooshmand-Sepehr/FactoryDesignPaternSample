@@ -1,4 +1,4 @@
-﻿namespace FactoryDesignPaternSample.Contracts
+﻿namespace FactoryDesignPatternSample.Contracts
 {
     public interface ICarSupplier
     {

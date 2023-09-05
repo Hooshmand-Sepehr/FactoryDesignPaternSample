@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using FactoryDesignPaternSample.HelperClasses;
+using FactoryDesignPatternSample.HelperClasses;
 
 Console.WriteLine("Enter type:");
 var type = Console.ReadLine();

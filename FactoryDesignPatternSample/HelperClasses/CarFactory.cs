@@ -1,7 +1,7 @@
-﻿using FactoryDesignPaternSample.Contracts;
-using FactoryDesignPaternSample.Entities;
+﻿using FactoryDesignPatternSample.Contracts;
+using FactoryDesignPatternSample.Entities;
 
-namespace FactoryDesignPaternSample.HelperClasses
+namespace FactoryDesignPatternSample.HelperClasses
 {
     public class CarFactory
     {
