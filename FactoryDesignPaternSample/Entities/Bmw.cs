@@ -6,7 +6,7 @@ namespace FactoryDesignPaternSample.Entities
     {
         public async Task Start()
         {
-            await Console.Out.WriteLineAsync("Bm2 is starting");
+            await Console.Out.WriteLineAsync("Bmw is starting");
         }
     }
 }
