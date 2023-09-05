@@ -1,2 +1,2 @@
-# FactoryDesignPatern
+# FactoryDesignPattern
 The Factory Design Pattern is a creational design pattern in software engineering. It is used to create objects without specifying the exact class of object that will be created. Instead of calling a constructor directly to create an object, a factory method or factory class is used to create the object. This provides several advantages, such as flexibility, encapsulation, and the ability to create objects based on certain conditions or configurations.
